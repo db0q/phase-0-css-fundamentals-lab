@@ -3,3 +3,33 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  font-style: Arial ,bold;
+  font-weight: bold;
+  text-align: center;
+}
+nav{
+  text-align: center;
+  
+}
+nav > a{
+  background-color: rgb(135, 135, 133);
+  padding: 3px 12px;
+}
+#featured-property{
+  text-align: center;
+ 
+}
+section>p {
+  width: 800px;
+  margin: auto;
+}
+
+#details {
+  background-color: red;
+display: flex;
+  flex-direction: row;
+  justify-content:space-between;
+  width: auto;
+
+}
